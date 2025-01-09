@@ -29,8 +29,8 @@ manifest.json:
   translates_to (string)
     Shows what language it translates to
 
-answers.txt:
-  List of words seperated by new line:
+answers.txt:\n
+  List of words seperated by new line:\n
     aback 
     abase
     abate
